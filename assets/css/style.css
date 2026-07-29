@@ -1,0 +1,76 @@
+/* assets/css/style.css */
+.header {
+    background: linear-gradient(135deg, #FF6B6B, #FF8E53);
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.header-title {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.header-subtitle {
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+.stat-card {
+    background: white;
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.stat-value {
+    font-size: 28px;
+    font-weight: bold;
+    color: #FF6B6B;
+}
+
+.stat-label {
+    font-size: 14px;
+    color: #666;
+}
+
+.chat-message {
+    padding: 15px;
+    border-radius: 20px;
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.leo-message {
+    background-color: #FFF3E0;
+    text-align: left;
+    border-left: 5px solid #FF6B6B;
+}
+
+.user-message {
+    background-color: #E3F2FD;
+    text-align: right;
+    border-right: 5px solid #2196F3;
+}
+
+.word-card {
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    margin: 20px 0;
+}
+
+.word-emoji {
+    font-size: 80px;
+}
+
+.word-question {
+    font-size: 24px;
+    margin: 20px 0;
+    color: #2D3436;
+}
