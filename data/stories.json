@@ -1,0 +1,23 @@
+{
+  "1": [
+    {"title": "The Hungry Cat", "content": "The cat is hungry. It wants to eat fish. The cat goes to the kitchen.", "emoji": "🐱"},
+    {"title": "The Happy Dog", "content": "The dog is happy. It plays with a ball. The dog runs in the park.", "emoji": "🐶"},
+    {"title": "The Big Elephant", "content": "The elephant is big. It lives in the jungle. The elephant likes water.", "emoji": "🐘"}
+  ],
+  "2": [
+    {"title": "The Red Balloon", "content": "Leo has a red balloon. It flies in the blue sky. Leo is very happy.", "emoji": "🎈"},
+    {"title": "The Rainbow", "content": "After the rain, a rainbow appears. It has red, yellow, green and purple colors.", "emoji": "🌈"}
+  ],
+  "3": [
+    {"title": "Breakfast Time", "content": "Leo eats bread and drinks milk. Then he eats a red apple. Breakfast is yummy!", "emoji": "🍞"},
+    {"title": "Pizza Party", "content": "It is Leo's birthday. His friends bring pizza and cake. Everyone is happy!", "emoji": "🍕"}
+  ],
+  "4": [
+    {"title": "My Family", "content": "This is my mother and my father. I have one sister and one brother. We love our house.", "emoji": "👨‍👩‍👧‍👦"},
+    {"title": "Bedtime", "content": "Leo opens the window. He closes the door. Leo goes to bed and says good night.", "emoji": "🛏️"}
+  ],
+  "5": [
+    {"title": "First Day of School", "content": "Leo goes to school with his book and pencil. He meets a new friend. The teacher smiles.", "emoji": "🏫"},
+    {"title": "Counting Friends", "content": "Leo has one, two, three friends at school. They read books together.", "emoji": "🧑‍🤝‍🧑"}
+  ]
+}
