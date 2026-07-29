@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secretos
+.secrets/
+.env
+
+# Bases de datos
+*.db
+*.sqlite
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
